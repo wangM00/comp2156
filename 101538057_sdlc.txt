@@ -1,3 +1,4 @@
 Importance of DevOps in SDLC
 COMP 3104 - DevOps Course
 The COMP 3104 DevOps course covers essential DevOps practices, including continuous integration, continuous deployment (CI/CD), automation, and cloud technologies. Students learn how to streamline software development processes using tools like Git, Docker, Kubernetes, and Jenkins, improving collaboration between development and operations teams.
+Continuous Integration (CI) and Continuous Deployment (CD) are core DevOps practices that allow code changes to be integrated and deployed more frequently and reliably. This leads to faster release cycles and reduces time to market.
